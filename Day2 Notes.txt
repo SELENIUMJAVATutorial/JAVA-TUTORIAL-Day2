@@ -1,0 +1,48 @@
+Day1:
+------------
+   JAVA Introduction
+
+   Java Execution Flow
+   
+Variables
+   DataTypes
+ 
+   Conditional Statements
+      
+Examples: 
+ 
+Day1 Video Link:
+  https://www.youtube.com/watch?v=-ihfhRpvVcA
+Github Repo Link:
+ https://github.com/SELENIUMJAVATutorial
+----------------------------------------------------------------------------------------------------------------------------		
+Day2 Array:
+=======
+Array is a datastructure useful to store multiple values of similar datatype
+
+Syntax of Array:
+-------------------
+   int array_name[] = new int[size];
+
+There are two types of array.
+1. Single Dimensional Array
+2. Multi Dimensional Array
+
+
+
+Declaration of Array:
+------------------------
+int arr[]
+int arr[][]
+
+Intialization of Array:
+-------------------------
+arr = new int[5];
+arr = new int[5][5];
+
+
+Accessing Array Elements:
+-----------------------------
+array[index]
+
+
